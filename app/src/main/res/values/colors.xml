@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d8803</color>
+    <color name="colorPrimaryDark">#2d8803</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBreweriesCardBg">#f5f5f5</color>
+    <color name="colorBreweriesTitle">#454545</color>
+    <color name="colorBreweriesText">#8b8b8b</color>
+</resources>
